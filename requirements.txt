@@ -1,3 +1,3 @@
-PyYAML
+PyYAML==6.0.3
 https://github.com/carlosgprado/swiffas/zipball/master
-cmd2
+cmd2==3.4.0
